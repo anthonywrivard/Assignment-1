@@ -5,12 +5,12 @@ body {
 }
 
  div.container{
-	min-width:600px;
-	margin-bottom:50px;
-	width:50%;
-    text-align:center;
-	margin: 0 auto;
-	font-family:Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+	 min-width:600px;
+	 margin-bottom:50px;
+	 width:50%;
+	 text-align:center;
+	 margin: 0 auto;
+	 font-family:Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
 	
 }
 
@@ -21,4 +21,6 @@ div.container h1 {
 img {
 	display:block;
 	margin:auto;
+	width: 198;
+	height: 417;
 }
